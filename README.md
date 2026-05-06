@@ -1,7 +1,9 @@
 - AppBar
-- Divider
+- Row
+- Column
 - ElevatedButton
 - Drawer
+- Divider
 - SizedBox
 - Icon
 - IconButton
@@ -10,8 +12,8 @@
 - BottomNavigationBar
 - Navigator
 - Radio
-- Row
-- Column
+- Align
+- CircleAvater
 - SnackBar
 - Text
 - TextField
