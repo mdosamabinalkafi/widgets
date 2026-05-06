@@ -1,32 +1,34 @@
-- AppBar
-- Row
-- Column
-- ElevatedButton
-- Drawer
-- Divider
-- SizedBox
-- Icon
-- IconButton
-- ListView
-- ListTile
-- Align
-- CircleAvater
-- Text
-- TextButton
-- SingleChildScrollView
+- AppBar 
+- Row 
+- Column 
+- ElevatedButton 
+- Drawer 
+- Divider 
+- SizedBox 
+- Icon 
+- IconButton 
+- ListView 
+- ListTile 
+- Align 
+- CircleAvater 
+- Text 
+- TextButton 
+- SingleChildScrollView 
 - Expanded
-- Container
-- Padding
-
-
-
-
-- BottomNavigationBar
+- Container 
+- Padding 
 - Navigator
-- Radio
-- SnackBar
-- TextField
-- RichText
 - Image
 - GestureDetector
+- SnackBar
+- BottomNavigationBar
+- RichText
+---------------------------------------------------------
+
+
+
+- Radio
+- TextField
+
+
 
